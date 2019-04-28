@@ -1,0 +1,6 @@
+{
+    "objectscript.conn.active": true,
+    "objectscript.conn.ns": "HELLOIRIS",
+    "objectscript.conn.port": 52773,
+    "objectscript.conn.version": 3
+}
